@@ -13,3 +13,5 @@ Use this project to code along with the [Creating a CardView](https://developer.
 * Added `ScrumProgressViewStyle` from starter.
 * Added `ScrumTimer` from starter.
 * Added `AVPlayer+Ding` from starter.
+* Added `History` from starter.
+
