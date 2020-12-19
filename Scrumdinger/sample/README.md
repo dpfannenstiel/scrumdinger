@@ -14,5 +14,7 @@ Use this project to code along with the [Creating a CardView](https://developer.
 * Added `ScrumTimer` from starter.
 * Added `AVPlayer+Ding` from starter.
 * Added `History` from starter.
+* `xcrun simctl get_app_container booted dev.dmp.Scrumdinger`
+* `xcrun simctl get_app_container booted dev.dmp.Scrumdinger data`
 * Added Assets.xcassets from starter.
 

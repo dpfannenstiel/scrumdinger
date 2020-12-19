@@ -14,6 +14,10 @@
 	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundlePackageType</key>
 	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>You can view a text transcription of your meeting in the app.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Audio is recorded to transcribe the meeting. Audio recordings are discarded after transcription.</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
