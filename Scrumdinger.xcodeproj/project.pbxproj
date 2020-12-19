@@ -26,6 +26,7 @@
 		DA548C75258D8B5400C10A77 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA548C74258D8B5400C10A77 /* AVPlayer+Ding.swift */; };
 		DA548C79258D8BB100C10A77 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = DA548C78258D8BB100C10A77 /* ding.wav */; };
 		DA548C7C258E59D900C10A77 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA548C7B258E59D900C10A77 /* History.swift */; };
+		DA548C80258E5CF900C10A77 /* ScrumData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA548C7F258E5CF900C10A77 /* ScrumData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		DA548C74258D8B5400C10A77 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		DA548C78258D8BB100C10A77 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
 		DA548C7B258E59D900C10A77 /* History.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		DA548C7F258E5CF900C10A77 /* ScrumData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				DA548C4A258CF55C00C10A77 /* DailyScrum.swift */,
+				DA548C7F258E5CF900C10A77 /* ScrumData.swift */,
 			);
 			path = models;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 				DA548C7C258E59D900C10A77 /* History.swift in Sources */,
 				DA548C66258D11C900C10A77 /* EditView.swift in Sources */,
 				DA548C75258D8B5400C10A77 /* AVPlayer+Ding.swift in Sources */,
+				DA548C80258E5CF900C10A77 /* ScrumData.swift in Sources */,
 				DA548C69258D33A900C10A77 /* MeetingHeaderView.swift in Sources */,
 				DA548C4B258CF55C00C10A77 /* DailyScrum.swift in Sources */,
 				DA548C72258D3A2300C10A77 /* MeetingFooterView.swift in Sources */,
