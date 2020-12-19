@@ -10,3 +10,6 @@ Use this project to code along with the [Creating a CardView](https://developer.
 
 ### Import Necessary Files from original source to my sample.
 * Adds Color+Codable.swift - I just didn't feel like reimplementing `accessibleFontColor`
+* Added `ScrumProgressViewStyle` from starter.
+* Added `ScrumTimer` from starter.
+* Added `AVPlayer+Ding` from starter.
