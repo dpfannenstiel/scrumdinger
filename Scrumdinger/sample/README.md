@@ -14,4 +14,5 @@ Use this project to code along with the [Creating a CardView](https://developer.
 * Added `ScrumTimer` from starter.
 * Added `AVPlayer+Ding` from starter.
 * Added `History` from starter.
+* Added Assets.xcassets from starter.
 

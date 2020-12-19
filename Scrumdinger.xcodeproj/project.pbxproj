@@ -27,6 +27,8 @@
 		DA548C79258D8BB100C10A77 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = DA548C78258D8BB100C10A77 /* ding.wav */; };
 		DA548C7C258E59D900C10A77 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA548C7B258E59D900C10A77 /* History.swift */; };
 		DA548C80258E5CF900C10A77 /* ScrumData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA548C7F258E5CF900C10A77 /* ScrumData.swift */; };
+		DA548C83258E62D700C10A77 /* MeetingTimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA548C82258E62D700C10A77 /* MeetingTimerView.swift */; };
+		DA548C86258E640400C10A77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA548C85258E640400C10A77 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +54,8 @@
 		DA548C78258D8BB100C10A77 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
 		DA548C7B258E59D900C10A77 /* History.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		DA548C7F258E5CF900C10A77 /* ScrumData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumData.swift; sourceTree = "<group>"; };
+		DA548C82258E62D700C10A77 /* MeetingTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingTimerView.swift; sourceTree = "<group>"; };
+		DA548C85258E640400C10A77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +122,7 @@
 			children = (
 				DA548C5B258D038500C10A77 /* ScrumsView.swift */,
 				DA548C39258CEED900C10A77 /* MeetingView.swift */,
+				DA548C82258E62D700C10A77 /* MeetingTimerView.swift */,
 				DA548C71258D3A2300C10A77 /* MeetingFooterView.swift */,
 				DA548C68258D33A900C10A77 /* MeetingHeaderView.swift */,
 				DA548C4D258CFD2900C10A77 /* CardView.swift */,
@@ -130,6 +135,7 @@
 		DA548C77258D8BB100C10A77 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				DA548C85258E640400C10A77 /* Assets.xcassets */,
 				DA548C78258D8BB100C10A77 /* ding.wav */,
 			);
 			path = Resources;
@@ -210,6 +216,7 @@
 				DA548C56258D017300C10A77 /* LICENSE.txt in Resources */,
 				DA548C3F258CEEDB00C10A77 /* Preview Assets.xcassets in Resources */,
 				DA548C59258D019200C10A77 /* README.md in Resources */,
+				DA548C86258E640400C10A77 /* Assets.xcassets in Resources */,
 				DA548C3C258CEEDB00C10A77 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -227,6 +234,7 @@
 				DA548C66258D11C900C10A77 /* EditView.swift in Sources */,
 				DA548C75258D8B5400C10A77 /* AVPlayer+Ding.swift in Sources */,
 				DA548C80258E5CF900C10A77 /* ScrumData.swift in Sources */,
+				DA548C83258E62D700C10A77 /* MeetingTimerView.swift in Sources */,
 				DA548C69258D33A900C10A77 /* MeetingHeaderView.swift in Sources */,
 				DA548C4B258CF55C00C10A77 /* DailyScrum.swift in Sources */,
 				DA548C72258D3A2300C10A77 /* MeetingFooterView.swift in Sources */,
